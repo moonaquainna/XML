@@ -2,13 +2,13 @@
 <?xml version="1.0"?>
 
 <Skills>
-        <skill1> gitbash</skill1>
-        <skill2> github </skill2>
-        <skill3> Jira </skill3>
-        <skill4> Postman </skill4>
-        <skill5> MysQL </skill5>
-        <skill6> Json  </skill6>
-        <skill7> XML </skill7>
-        <skill8> Scrum </skill8>
-        <skill9> Charles </skill9>
+        <skill1>gitbash</skill1>
+        <skill2>github</skill2>
+        <skill3>Jira</skill3>
+        <skill4>Postman</skill4>
+        <skill5>MysQL</skill5>
+        <skill6>Json</skill6>
+        <skill7>XML</skill7>
+        <skill8>Scrum</skill8>
+        <skill9>Charles</skill9>
 </Skills>`
