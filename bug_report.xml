@@ -1,9 +1,9 @@
 <?xml version="1.0"?>
 
-<Bug report>
-  <title> bug  </title>
-  <description> what where when </description> 
-  <steps> step to reproduce  </steps>
-  <actual result> step_1  </actual result> 
-  <expected result> step </expected result>
- </Bug report>
+<Bug_report>
+  <title>bug</title>
+  <description>what where when</description> 
+  <steps>step to reproduce</steps>
+  <actual_result>step_1</actual_result> 
+  <expected_result>step</expected_result>
+ </Bug_report>
